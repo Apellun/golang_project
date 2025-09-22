@@ -1,0 +1,9 @@
+go.mod
+go.sum
+internal/.env
+internal/db.go
+internal/main.go
+internal/database/database.go
+internal/errors/errors.go
+internal/models/user.go
+internal/services/user_service.go
